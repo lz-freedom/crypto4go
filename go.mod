@@ -1,4 +1,4 @@
-module github.com/erdong01/crypto4go
+module github.com/lz-freedom/crypto4go
 
 go 1.18
 
